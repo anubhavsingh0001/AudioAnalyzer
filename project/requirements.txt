@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+librosa
+numpy
+nest_asyncio
+python-multipart
